@@ -1,7 +1,7 @@
-import nltk.data
+from nltk.tokenize import word_tokenize
 import re
 import string
-with open('C://Users//jbjb//Documents//DATA//weird corpus//***.txt', 'r', encoding='utf-8') as fuck:
-	data=fuck.read().replace('\n', ' ')
-sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-print ('\n-----\n'.join(sent_detector.tokenize(data.strip())))
+with open('C://Users//jbjb//Documents//DATA//weird corpus//finneganswake.txt', 'r', encoding='utf-8') as fuck:
+	data=fuck.read().replace('\n-----\n', '\n')
+newdata = word_tokenize(data, preserve_line=True)
+print (newdata)
