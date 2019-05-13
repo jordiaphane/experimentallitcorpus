@@ -1,13 +1,13 @@
-"# experimentallitcorpus" 
-\n
-William Gaddis - Agape! Agape!\n
-James Joyce - Finnegan's Wake\n
-Friedrich Holderlin - Hyperion\n
-Ibn Arabi - Universal Tree and the Four Birds\n
-Comtre de Mautremont - Malordor and Poems\n
-William Burroughs - Nova Express\n
-Georg Perec - 124 Dreams\n
-Rumi - Mystical Poems of Rumi\n
-Gertrude Stein - Tender Buttons\n
-James Joyce - Ulysses\n
-Virginia Woolf - The Waves\n
+experimentallitcorpus
+
+William Gaddis - Agape! Agape!
+James Joyce - Finnegan's Wake
+Friedrich Holderlin - Hyperion
+Ibn Arabi - Universal Tree and the Four Birds
+Comtre de Mautremont - Malordor and Poems
+William Burroughs - Nova Express
+Georg Perec - 124 Dreams
+Rumi - Mystical Poems of Rumi
+Gertrude Stein - Tender Buttons
+James Joyce - Ulysses
+Virginia Woolf - The Waves
