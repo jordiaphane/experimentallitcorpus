@@ -1,4 +1,4 @@
-#Experimental Literature Corpus
+Experimental Literature Corpus
 
 - William Gaddis - Agape! Agape!
 - James Joyce - Finnegan's Wake
